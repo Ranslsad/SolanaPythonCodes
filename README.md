@@ -1,7 +1,7 @@
 # SolanaPythonCodes
 Solana python codes to help begginers
 
-Joins our telegram to work and learn together: https://t.me/DestinyDexes
+Destiny Scripts: https://www.destinyscripts.xyz/
 
 # Radyium:
 - simple_raydium_wss_jsonparsed.py
